@@ -9,5 +9,7 @@ body {
 }
 
 #james-gandolfini {
+  text-size-adjust: 40px;
+  text-shadow: 10px;
   size: 200px;
 }
